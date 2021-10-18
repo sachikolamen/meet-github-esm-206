@@ -49,6 +49,14 @@ The organization of this document probably seems strange. That's because it's pa
 #### Ring-tailed cats
 Here is where I want to have info on ring-tail cats
 ![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+Well'll also learn about `knitr::include_graphics()`
+
+Add a few fun facts:
+- can rotate their feet 180 degrees
+- not endangered, just elusive
+- closely related to racoons and often mistaken for small scrawny racoons
+
+
 
 ###
 
