@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Allison Horst"
+author: "Sachiko Lamen"
 output: html_document
 ---
 
